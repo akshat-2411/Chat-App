@@ -130,4 +130,4 @@ Visit: `http://localhost:5173` (Vite dev server)
 
 ## 📝 License
 
-This project is licensed under the MIT License.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE.
